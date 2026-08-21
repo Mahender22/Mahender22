@@ -1,6 +1,6 @@
 # Mahender Rao Samperboyina
 
-Software Engineer (AI/ML) building agentic AI platforms in production. 6+ years across software engineering, ML research, and enterprise automation. Currently at Bayesics, where I architect a reusable multi-agent framework powering internal AI applications for NASA program teams and federal R&D partners. MS Computer Science from Rowan University (4.0 GPA).
+Software Engineer (AI/ML) building agentic AI platforms in production. 6+ years across software engineering, ML research, and enterprise automation. I architect a reusable multi-agent framework powering internal AI applications. MS Computer Science from Rowan University (4.0 GPA).
 
 ## What I'm working on
 
